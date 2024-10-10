@@ -170,7 +170,9 @@ body {
     padding: 25px;
 }
 
-
+.customiseimg {
+    margin-left: 25px;
+}
 .move {
     display: flex;
     flex-direction: column-reverse;
@@ -437,13 +439,7 @@ body {
         align-items: center;
         padding: 10px;
         cursor: pointer;
-        text-align: left; 
+        text-align: left;
     }
-    
- 
-  
-
-
-
 
 }

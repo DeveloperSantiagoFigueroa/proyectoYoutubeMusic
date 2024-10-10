@@ -335,6 +335,7 @@ body {
         color: rgb(62, 123, 236);
         position: absolute;
         right: 100px;
+        overflow: hidden;
     }
 
     .btn__text {
